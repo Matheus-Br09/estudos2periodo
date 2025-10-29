@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Aula1/Aula1.iml" filepath="$PROJECT_DIR$/estudoCasa/Aula1/Aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/Aula1POO/Aula1POO.iml" filepath="$PROJECT_DIR$/estudoFaculdade/Aula1POO/Aula1POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Aula2/Aula2.iml" filepath="$PROJECT_DIR$/estudoCasa/Aula2/Aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/Aula2POO/Aula2POO.iml" filepath="$PROJECT_DIR$/estudoFaculdade/Aula2POO/Aula2POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Aula3/Aula3.iml" filepath="$PROJECT_DIR$/estudoCasa/Aula3/Aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Aula4/Aula4.iml" filepath="$PROJECT_DIR$/estudoCasa/Aula4/Aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Aula5/Aula5.iml" filepath="$PROJECT_DIR$/estudoCasa/Aula5/Aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/estudoCasa/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/Treino/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/Treino/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex003/Ex003.iml" filepath="$PROJECT_DIR$/Treino/Ex003/Ex003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex004/Ex004.iml" filepath="$PROJECT_DIR$/Treino/Ex004/Ex004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex005/Ex005.iml" filepath="$PROJECT_DIR$/Treino/Ex005/Ex005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex006/Ex006.iml" filepath="$PROJECT_DIR$/Treino/Ex006/Ex006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Ex007/Ex007.iml" filepath="$PROJECT_DIR$/Treino/Ex007/Ex007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/ExercicioIniciante.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/ExercicioIniciante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/Sobrescrita E Sobrecarga.iml" filepath="$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/Sobrescrita E Sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Treino.iml" filepath="$PROJECT_DIR$/Treino/Treino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treino/Treino1/Treino1.iml" filepath="$PROJECT_DIR$/Treino/Treino1/Treino1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoCasa/estudoCasa.iml" filepath="$PROJECT_DIR$/estudoCasa/estudoCasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/estudoFaculdade.iml" filepath="$PROJECT_DIR$/estudoFaculdade/estudoFaculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudos2periodo.iml" filepath="$PROJECT_DIR$/estudos2periodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/sobrecarga/sobrecarga.iml" filepath="$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/sobrecarga/sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/sobrescrita/sobrescrita.iml" filepath="$PROJECT_DIR$/estudoFaculdade/Sobrescrita E Sobrecarga/sobrescrita/sobrescrita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino1/treino1.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino1/treino1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino2/treino2.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino2/treino2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino3/treino3.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino3/treino3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino4/treino4.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino4/treino4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino5/treino5.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino5/treino5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioIniciante/treino6/treino6.iml" filepath="$PROJECT_DIR$/ExercicioIniciante/treino6/treino6.iml" />
+    </modules>
+  </component>
+</project>
