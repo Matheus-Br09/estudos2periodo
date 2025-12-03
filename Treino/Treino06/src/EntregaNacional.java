@@ -5,7 +5,8 @@ public class EntregaNacional extends Entrega{
     }
 
     @Override
-    public double calcularFrete() {
-        return this.peso * 2 + this.distancia * 0.5;
+    public double calcularFrete(){
+        return this.peso * 2 + distancia * 0.5;
     }
+
 }
